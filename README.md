@@ -2,6 +2,8 @@
 
 Customizable Circular Progress Bar and Strength Bar Widgets developed using React
 
+Check storybook Demo [here](https://63dfe6ad174c4b744e816aa6-aeldsdwwxv.chromatic.com/)
+
 ## Circular progress bar
 
 <img src='./asset/CircularProgressBar.png' height="250px" width="200px" />
